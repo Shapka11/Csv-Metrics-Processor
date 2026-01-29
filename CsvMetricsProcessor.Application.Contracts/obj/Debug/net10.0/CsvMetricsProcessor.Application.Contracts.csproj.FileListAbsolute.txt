@@ -1,0 +1,15 @@
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Application.Contracts\bin\Debug\net10.0\CsvMetricsProcessor.Application.Contracts.deps.json
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Application.Contracts\bin\Debug\net10.0\CsvMetricsProcessor.Application.Contracts.dll
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Application.Contracts\bin\Debug\net10.0\CsvMetricsProcessor.Application.Contracts.pdb
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Application.Contracts\bin\Debug\net10.0\CsvMetricsProcessor.Domain.dll
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Application.Contracts\bin\Debug\net10.0\CsvMetricsProcessor.Domain.pdb
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Application.Contracts\obj\Debug\net10.0\CsvMetricsProcessor.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Application.Contracts\obj\Debug\net10.0\CsvMetricsProcessor.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Application.Contracts\obj\Debug\net10.0\CsvMetricsProcessor.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Application.Contracts\obj\Debug\net10.0\CsvMetricsProcessor.Application.Contracts.AssemblyInfo.cs
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Application.Contracts\obj\Debug\net10.0\CsvMetricsProcessor.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Application.Contracts\obj\Debug\net10.0\CsvMetri.706C77D7.Up2Date
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Application.Contracts\obj\Debug\net10.0\CsvMetricsProcessor.Application.Contracts.dll
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Application.Contracts\obj\Debug\net10.0\refint\CsvMetricsProcessor.Application.Contracts.dll
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Application.Contracts\obj\Debug\net10.0\CsvMetricsProcessor.Application.Contracts.pdb
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Application.Contracts\obj\Debug\net10.0\ref\CsvMetricsProcessor.Application.Contracts.dll

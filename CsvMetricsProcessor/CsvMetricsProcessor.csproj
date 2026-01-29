@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\CsvMetricsProcessor.Infrastructure.Persistence\CsvMetricsProcessor.Infrastructure.Persistence.csproj" />
+        <ProjectReference Include="..\CsvMetricsProcessor.Application\CsvMetricsProcessor.Application.csproj" />
+        <ProjectReference Include="..\CsvMetricsProcessor.Presentation.Http\CsvMetricsProcessor.Presentation.Http.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Swashbuckle.AspNetCore" />
+    </ItemGroup>
+
+</Project>

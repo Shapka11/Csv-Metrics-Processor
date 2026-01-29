@@ -1,0 +1,11 @@
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Domain\bin\Debug\net10.0\CsvMetricsProcessor.Domain.deps.json
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Domain\bin\Debug\net10.0\CsvMetricsProcessor.Domain.dll
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Domain\bin\Debug\net10.0\CsvMetricsProcessor.Domain.pdb
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Domain\obj\Debug\net10.0\CsvMetricsProcessor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Domain\obj\Debug\net10.0\CsvMetricsProcessor.Domain.AssemblyInfoInputs.cache
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Domain\obj\Debug\net10.0\CsvMetricsProcessor.Domain.AssemblyInfo.cs
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Domain\obj\Debug\net10.0\CsvMetricsProcessor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Domain\obj\Debug\net10.0\CsvMetricsProcessor.Domain.dll
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Domain\obj\Debug\net10.0\refint\CsvMetricsProcessor.Domain.dll
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Domain\obj\Debug\net10.0\CsvMetricsProcessor.Domain.pdb
+C:\Users\sasha\RiderProjects\Csv-Metrics-Processor\CsvMetricsProcessor.Domain\obj\Debug\net10.0\ref\CsvMetricsProcessor.Domain.dll

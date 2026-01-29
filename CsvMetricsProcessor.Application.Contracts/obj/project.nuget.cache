@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T12YhavRh2o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sasha\\RiderProjects\\Csv-Metrics-Processor\\CsvMetricsProcessor.Application.Contracts\\CsvMetricsProcessor.Application.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sasha\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\sasha\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
